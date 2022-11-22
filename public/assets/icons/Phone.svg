@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="49" height="49" viewBox="0 0 49 49">
+  <defs>
+    <filter id="Ellipse_30" x="0" y="0" width="49" height="49" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_5124" data-name="Group 5124" transform="translate(-1833.492 -1010.492)">
+    <g transform="matrix(1, 0, 0, 1, 1833.49, 1010.49)" filter="url(#Ellipse_30)">
+      <circle id="Ellipse_30-2" data-name="Ellipse 30" cx="15.5" cy="15.5" r="15.5" transform="translate(9 6)" fill="#fff"/>
+    </g>
+    <path id="Icon_ionic-ios-call" data-name="Icon ionic-ios-call" d="M19.593,16.679a13.063,13.063,0,0,0-2.729-1.826c-.818-.393-1.117-.385-1.7.032-.482.348-.794.672-1.348.551a8.042,8.042,0,0,1-2.709-2,7.985,7.985,0,0,1-2-2.709c-.117-.559.206-.866.551-1.348.417-.579.429-.879.032-1.7A12.8,12.8,0,0,0,7.864,4.95c-.6-.6-.729-.466-1.057-.348a6.013,6.013,0,0,0-.968.514A2.919,2.919,0,0,0,4.678,6.343c-.231.5-.5,1.425.862,3.846a21.461,21.461,0,0,0,3.773,5.032h0l0,0,0,0h0A21.545,21.545,0,0,0,14.354,19c2.421,1.36,3.348,1.093,3.846.862A2.869,2.869,0,0,0,19.427,18.7a6.013,6.013,0,0,0,.514-.968C20.059,17.408,20.192,17.274,19.593,16.679Z" transform="translate(1845.801 1019.789)" fill="#3d5a80"/>
+  </g>
+</svg>

@@ -1,0 +1,18 @@
+<svg id="Group_4741" data-name="Group 4741" xmlns="http://www.w3.org/2000/svg" width="21.027" height="20.217" viewBox="0 0 21.027 20.217">
+  <g id="Group_4713" data-name="Group 4713" transform="translate(0 0)">
+    <g id="Icon_ionic-md-paper" data-name="Icon ionic-md-paper">
+      <g id="Group_4736" data-name="Group 4736">
+        <path id="Path_798" data-name="Path 798" d="M22.526,4.5H9.76a.774.774,0,0,0-.751.774V6.753H4.221A1.977,1.977,0,0,0,2.25,8.724v9.739a4.069,4.069,0,0,0,4.036,4.06H19.415a3.872,3.872,0,0,0,3.863-3.849V5.251A.753.753,0,0,0,22.526,4.5ZM9.009,8.255v9.012H7.037V9.156a2.292,2.292,0,0,0-.155-.9Zm-.8,11.987a2.772,2.772,0,0,1-1.9.779,2.564,2.564,0,0,1-2.558-2.558V9.156a.892.892,0,1,1,1.784,0v8.862a.753.753,0,0,0,.751.751h2.7A2.469,2.469,0,0,1,8.211,20.242Zm13.565-1.568a2.372,2.372,0,0,1-2.361,2.347H9.539a3.924,3.924,0,0,0,.972-2.558V6.049H21.775Z" transform="translate(-2.25 -4.5)" fill="#637381"/>
+        <path id="Path_799" data-name="Path 799" d="M17.438,9.562h7.51v2.628h-7.51Z" transform="translate(-7.299 -6.183)" fill="#637381"/>
+        <path id="Path_800" data-name="Path 800" d="M17.438,15.75h7.51v1.5h-7.51Z" transform="translate(-7.299 -8.24)" fill="#637381"/>
+        <path id="Path_801" data-name="Path 801" d="M17.438,20.25h7.51v1.5h-7.51Z" transform="translate(-7.299 -9.736)" fill="#637381"/>
+        <path id="Path_802" data-name="Path 802" d="M24.76,24.75H17.25s0,1.5-.375,1.5h6.979C24.76,26.252,24.76,25.266,24.76,24.75Z" transform="translate(-7.111 -11.232)" fill="#637381"/>
+      </g>
+      <g id="Ellipse_7" data-name="Ellipse 7" transform="translate(11.027 10.02)" fill="#fff" stroke="#707070" stroke-width="1">
+        <circle cx="5" cy="5" r="5" stroke="none"/>
+        <circle cx="5" cy="5" r="4.5" fill="none"/>
+      </g>
+      <path id="Icon_ionic-ios-information-circle" data-name="Icon ionic-ios-information-circle" d="M8.572,3.375a5.2,5.2,0,1,0,5.2,5.2A5.2,5.2,0,0,0,8.572,3.375Zm.475,7.6H8.093V7.37h.954ZM8.57,6.978a.5.5,0,1,1,.517-.5A.5.5,0,0,1,8.57,6.978Z" transform="translate(7.258 6.447)" fill="#637381"/>
+    </g>
+  </g>
+</svg>
